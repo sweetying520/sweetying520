@@ -1,23 +1,34 @@
-<div style="background: white ">
-<!-- top left -->
-<div>
-    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
-</div>
-<p align="center">
-  <a href="https://github.com/sweetying520">
-    <img src="https://github-readme-stats.vercel.app/api?username=sweetying520&show_icons=true&line_height=21&show_icons=true&theme=vue" />
-  </a>
-</p>
+### Hi there 👋
+    
+I am sweetying who is a developer from China. 
 
-<p align="center">
-  <a href="https://github.com/sweetying520/Erdai-Android-Notebook">
-    <img src="https://img.shields.io/badge/🔥%20Android-Notes-brightness.svg"
-  </a>  
-  <a href="https://github.com/sweetying520">
-    <img src="https://komarev.com/ghpvc/?username=Omooo&color=brightgreen" />
-  </a>
-  <a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </a>  
-</p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
+
+
+### Links 📌
+
+- 公众号：微信内 🔍 sweetying
+- 掘金: https://juejin.cn/user/3210229682022888/posts
+- 个人博客: https://sweetying520.github.io/
+- 学习: [🌟🌟🌟🌟🌟 ](https://github.com/sweetying520/Erdai-Android-Notebook)
+
+
+### Contract :name_badge:
+
+- 微信：sweetying520
+
+
+### Stats 🌱
+
+<table cellspacing="0" cellpadding="0" style="border: none">
+  <tr>
+    <td>
+      
+![my github stats](https://github-readme-stats.vercel.app/api?username=sweetying520&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs)
+    </td>
+    <td>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetying520&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+    </td>
+    </tr> 
