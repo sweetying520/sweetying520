@@ -25,10 +25,11 @@ I am sweetying who is a developer from China.
   <tr>
     <td>
       
-![my github stats](https://github-readme-stats.vercel.app/api?username=sweetying520&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs)
+![my github stats](https://github-readme-stats.vercel.app/api?username=sweetying520&PAT_1=erdai666&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs)
     </td>
     <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetying520&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetying520&PAT_1=erdai666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
     </td>
     </tr> 
+    
