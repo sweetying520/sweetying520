@@ -17,19 +17,3 @@ I am sweetying who is a developer from China.
 ### Contract :name_badge:
 
 - 微信：sweetying520
-
-
-### Stats 🌱
-
-<table cellspacing="0" cellpadding="0" style="border: none">
-  <tr>
-    <td>
-      
-![my github stats](https://github-readme-stats.vercel.app/api?username=sweetying520&PAT_1=erdai666&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs)
-    </td>
-    <td>
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetying520&PAT_1=erdai666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-    </td>
-    </tr> 
-    
